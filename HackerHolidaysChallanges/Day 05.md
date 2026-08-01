@@ -4,8 +4,8 @@ Date: July 31, 2026
 
 ## Information
 
-- Challenge: [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c)
-- Category: Web
+- Challenge: [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7?vccr=1)
+- Category: Web, Boot2Root
 - Difficulty: Easy
 - Description:
 
